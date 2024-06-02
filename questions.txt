@@ -1,0 +1,30 @@
+Programming Assignment-1
+Write a C program (WACP)
+1. WACP to print a message on the Screen.
+2. WACP to add two numbers.
+3. WACP to read a character and print its ASCII value.
+4. WACP to calculate Simple and Compound interest.
+5. WACP to swap two integer numbers without using 3rd Variable.
+6. WACP to swap two integer numbers using 3rd Variable.
+7. WACP to find the area and circumference of a circle. (value of radius must be given by user and use
+the concept of symbolic constants)
+
+
+1. Control Statements
+1. To find biggest of given two numbers
+2. To find biggest of given three numbers
+3. To find biggest of given three numbers using nested if else statement
+4. To check an integer for perfect square.
+5. To check a year for leap year.
+6. Find the roots of a quadratic equation aX2 + bX +c =0 for all possible combinations of a, b and c.
+7. Find the value of Y using switch statement
+1+X when n=1
+Y(x,n) = 1+X/n when n=2
+1+Xn when n=3
+1+nX when n>3 or n<1
+8. To print the grade for marks obtained.
+Avg Marks Grade
+80 to 100 Honours
+60 to 79 First Division
+50 to 59 Second Division
+0 to 49 Fail
